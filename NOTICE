@@ -1,0 +1,17 @@
+Nexi Docs — NOTICE
+
+This export is licensed under Apache-2.0 (see LICENSE). It bundles or was built with the third-party packages
+below, each under its own licence as stated by its author; those licences are not altered by this export.
+
+fumadocs-core 16.15.11 — MIT
+fumadocs-mdx 15.4.1 — MIT
+fumadocs-openapi 11.4.3 — MIT
+fumadocs-ui 16.15.11 — MIT
+likec4 1.59.3 — MIT
+lucide-react 0.487.0 — ISC
+mermaid 12.0.0 — MIT
+next 16.3.6 — MIT
+react 19.2.0 — MIT
+react-dom 19.2.0 — MIT
+unist-util-visit 5.0.0 — MIT
+zod 4.6.5 — MIT

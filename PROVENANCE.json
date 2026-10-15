@@ -1,0 +1,15 @@
+{
+  "unit": "devportal",
+  "repository": "NexiFlow-ai/nexi-devportal",
+  "source_tag": "public/devportal/v0.1.0",
+  "source_commit": "02a33644900908e3fc17ce506e2a64b9c5b6a5b6",
+  "version": "0.1.0",
+  "exported_at": "2026-10-15T07:11:16.597Z",
+  "guard_version": "2026.10.14-2",
+  "allowlist_entries": 2,
+  "license": "Apache-2.0",
+  "export_digest": "fc219a9d109747de86bb20001c48960f021297188cc02841a0d5684aee546d93",
+  "mirror": true,
+  "canonical_origin": "https://docs.nexiflow.ai",
+  "canonical_links": 266
+}
